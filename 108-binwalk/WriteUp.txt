@@ -1,0 +1,2 @@
+ binwalk --dd '[png image:png]
+ open _PurpleThing.jpeg.extracted/25795.png
