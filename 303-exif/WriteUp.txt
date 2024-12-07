@@ -1,0 +1,1 @@
+strings Computer-Password-Security-Hacker\ -\ Copy.jpg  | egrep "flag{.*}"
